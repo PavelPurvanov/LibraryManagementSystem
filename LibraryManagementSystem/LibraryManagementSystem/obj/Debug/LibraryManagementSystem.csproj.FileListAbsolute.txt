@@ -1,0 +1,65 @@
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Books_Form.resources
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form1.resources
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Login_Form.resources
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Readers_Form.resources
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\09.03 TSP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\09.03 TSP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\09.03 TSP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\09.03 TSP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\09.03 TSP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\09.03 TSP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\09.03 TSP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Books_Form.resources
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\09.03 TSP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form1.resources
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\09.03 TSP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Login_Form.resources
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\09.03 TSP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\09.03 TSP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Readers_Form.resources
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\09.03 TSP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\boysa\OneDrive\Documents\Visual Studio 2012\Projects\09.03 TSP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Reference_Table.resources
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\ТСП - Курсов проект\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\ТСП - Курсов проект\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\ТСП - Курсов проект\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\ТСП - Курсов проект\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\ТСП - Курсов проект\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\ТСП - Курсов проект\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\mscorlib.dll
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\ТСП - Курсов проект\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\normidna.nlp
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\ТСП - Курсов проект\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\normnfc.nlp
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\ТСП - Курсов проект\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\normnfd.nlp
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\ТСП - Курсов проект\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\normnfkc.nlp
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\ТСП - Курсов проект\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\normnfkd.nlp
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\ТСП - Курсов проект\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\ТСП - Курсов проект\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Books_Form.resources
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\ТСП - Курсов проект\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form1.resources
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\ТСП - Курсов проект\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Login_Form.resources
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\ТСП - Курсов проект\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\ТСП - Курсов проект\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Readers_Form.resources
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\ТСП - Курсов проект\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\ТСП - Курсов проект\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Employess_Form.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Books_Form.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Employess_Form.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form1.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Login_Form.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Readers_Form.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Reference_Form.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\mscorlib.dll
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\normidna.nlp
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\normnfc.nlp
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\normnfd.nlp
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\normnfkc.nlp
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\normnfkd.nlp
+C:\Users\boysa\Desktop\3ti kyrs 6ti semestur\ТСП - Курсов проект\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Reference_Form.resources
